@@ -14,7 +14,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px">
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35px">
- <img src="https://skillicons.dev/icons?i=java" width="35px">
+ <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px">
+ <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35px"> -->
+ <img src="https://skillicons.dev/icons?i=java" width="52px">
 </p>
